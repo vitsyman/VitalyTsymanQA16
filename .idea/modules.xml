@@ -5,6 +5,12 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/FirstProject.iml" filepath="$PROJECT_DIR$/.idea/modules/FirstProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/FirstProject_main.iml" filepath="$PROJECT_DIR$/.idea/modules/FirstProject_main.iml" group="FirstProject" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/FirstProject_test.iml" filepath="$PROJECT_DIR$/.idea/modules/FirstProject_test.iml" group="FirstProject" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Second_Web_Selenium_By_Recorder.iml" filepath="$PROJECT_DIR$/.idea/modules/Second_Web_Selenium_By_Recorder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Second_Web_Selenium_By_Recorder_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Second_Web_Selenium_By_Recorder_main.iml" group="Second_Web_Selenium_By_Recorder" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Second_Web_Selenium_By_Recorder_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Second_Web_Selenium_By_Recorder_test.iml" group="Second_Web_Selenium_By_Recorder" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/addressbookWebTest.iml" filepath="$PROJECT_DIR$/.idea/modules/addressbookWebTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/addressbookWebTest_main.iml" filepath="$PROJECT_DIR$/.idea/modules/addressbookWebTest_main.iml" group="addressbookWebTest" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/addressbookWebTest_test.iml" filepath="$PROJECT_DIR$/.idea/modules/addressbookWebTest_test.iml" group="addressbookWebTest" />
     </modules>
   </component>
 </project>

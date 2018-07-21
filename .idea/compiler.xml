@@ -2,8 +2,12 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="addressbookWebTest_main" target="1.8" />
+      <module name="addressbookWebTest_test" target="1.8" />
       <module name="FirstProject_main" target="1.8" />
       <module name="FirstProject_test" target="1.8" />
+      <module name="Second_Web_Selenium_By_Recorder_main" target="1.8" />
+      <module name="Second_Web_Selenium_By_Recorder_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
