@@ -1,22 +1,19 @@
 package com.tran.qa16;
 
+import com.tran.qa16.tests.TestBase;
 import org.testng.annotations.Test;
 
-public class ContactCreationTest extends TestBase {
+public abstract class ContactCreationTest extends TestBase {
     @Test
     public void testContactCreation(){
-        initContactCreation();
-        fillContactForm();
-        createContact();
+        app.initContactCreation ();
+        app.fillContactForm (new ContactDate("qwert", "tyui", "asdfg123"));
+        app.createContact ();
     }
-
-    private void createContact() {
-    }
-
-    private void fillContactForm() {
-    }
-
-    private void initContactCreation() {
-
+    @Test
+    public void testContactCreation1(){
+        app.initContactCreation ();
+        app.fillContactForm (new ContactDate("qsdft", "asdyui", "asdfg123"));
+        app.createContact ();
     }
 }
